@@ -98,7 +98,7 @@ Feito com ❤️ por Cami-la 👋🏽 Entre em contato!
 [![Linkedin Badge](https://img.shields.io/badge/-Camila-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cami-la/)](https://www.linkedin.com/in/cami-la/)
 [![Gmail Badge](https://img.shields.io/badge/-camiladsantoscavalcante@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:camiladsantoscavalcante@gmail.com)](mailto:camiladsantoscavalcante@gmail.com)
 <hr>
-<div align="center>
+<div align="center">
 <h3>Aluno</h3>
 
 <a href="https://www.linkedin.com/in/carolina-alexandre-5622a9177/">
