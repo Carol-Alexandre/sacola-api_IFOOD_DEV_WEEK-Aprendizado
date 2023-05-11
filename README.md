@@ -98,14 +98,14 @@ Feito com ❤️ por Cami-la 👋🏽 Entre em contato!
 [![Linkedin Badge](https://img.shields.io/badge/-Camila-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cami-la/)](https://www.linkedin.com/in/cami-la/)
 [![Gmail Badge](https://img.shields.io/badge/-camiladsantoscavalcante@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:camiladsantoscavalcante@gmail.com)](mailto:camiladsantoscavalcante@gmail.com)
 <hr>
-
+<div align="center>
 <h3>Aluno</h3>
 
 <a href="https://www.linkedin.com/in/carolina-alexandre-5622a9177/">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/127779758?s=400&u=88e019da776f01f202a34e053c208a7d3c58a1b5&v=4" width="100px;" alt=""/>
  <br />
  <sub><b>Carolina Alexandre</b></sub></a> <a href="https://www.linkedin.com/in/carolina-alexandre-5622a9177" title="Linkdin"></a>
-
+</div>
 <p align="center">E Estudado com muito Suor ❤️ por Carolina Alexandre 👋🏽 e graças a Deus deu Certo!<p align="center">
 
 Este repositório foi criado para fins de estudo, então contribua com ele.<br>
